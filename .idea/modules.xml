@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Melon.iml" filepath="$PROJECT_DIR$/Melon.iml" />
+      <module fileurl="file://C:\Users\quf93\Desktop\Melon_project\Melon\Melon.iml" filepath="C:\Users\quf93\Desktop\Melon_project\Melon\Melon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\quf93\Desktop\Melon_project\Melon\app\app.iml" filepath="C:\Users\quf93\Desktop\Melon_project\Melon\app\app.iml" />
     </modules>
   </component>
 </project>
